@@ -8,6 +8,14 @@ Gain invaluable insights from senior IT leadership at various companies. Our uni
 * Funding mechanisms and criteria for success
 * The software selection process, including the winning candidate and all evaluated vendors
 
+<h2>Who are the reviewers?</h2>
+
+The reviewers are sourced from the leading software and Fortune 500 companies.  If you'd like to apply to be a paid reviewer, contact apply@cioalternatives.com. 
+
+<h2>How does this work?</h2>
+
+Clients pay for the reviewers time.  Please contact sales@cioalternatives.com. 
+
 <h2>Popular Software and Services Categories Covered</h2>
 
 * Compute
