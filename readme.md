@@ -2,7 +2,7 @@
 
 <h2>Reviews from your peers</h2>
 
-Gain invaluable insights from senior IT leadership at various companies. Our unique advantage lies in our reviewer's background ranging from technical sales and developer relations from software companies to enterprise users of the software product, offering a perspective you won't find elsewhere. We deliver detailed breakdowns of real-world IT initiatives, covering:
+Gain invaluable insights from senior IT leadership at various companies. Our unique advantage lies in our reviewer's background ranging from technical sales and developer relations at software companies to enterprise users of the software product, offering a perspective you won't find elsewhere. We deliver detailed breakdowns of real-world IT initiatives, covering:
 
 * Specific use cases and project sponsors
 * Funding mechanisms and criteria for success
