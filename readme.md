@@ -5,3 +5,13 @@ Gain invaluable insights from senior IT leadership at various companies. Our uni
 * Specific use cases and project sponsors
 * Funding mechanisms and criteria for success
 * The software selection process, including the winning candidate and all evaluated vendors
+
+<h2>Popular Software and Services Categories Covered</h2>
+
+* Compute
+  * Kubernetes Platforms
+  * Virtual Machine Platforms
+* Data
+  * Databases and OLTP
+  * Data Integration
+  * Analytics Engines and OLAP
