@@ -1,5 +1,3 @@
-title: "CIO Alternatives: Peer Insights"
-
 <h1>Choose Enterprise Technology Software and Services with Confidence</h1>
 
 <h2>Reviews from your peers</h2>
